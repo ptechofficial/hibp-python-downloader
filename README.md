@@ -20,5 +20,14 @@ This Python script downloads hash ranges from the Have I Been Pwned (HIBP) API a
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/hibp-downloader.git
+   git clone https://github.com/ptechofficial/hibp-python-downloader.git
    cd hibp-downloader
+
+2. **Install Dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the script**
+```bash
+   python script.py
